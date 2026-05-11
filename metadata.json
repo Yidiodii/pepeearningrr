@@ -1,0 +1,6 @@
+{
+  "name": "Pepe Miner",
+  "description": "A Pepe coin mining application with FaucetPay withdrawal simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
